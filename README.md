@@ -1,4 +1,5 @@
 ## Spotify Revenue & User Growth Analysis
+
 # 📊 Project Overview
 This project provides a deep dive analysis of Spotify's financial performance and user base growth from 2020 to 2023. By leveraging SQL for data structuring and Tableau for visual storytelling, the project uncovers trends in subscription revenue, advertising impact, and global user acquisition (MAUs).
 
