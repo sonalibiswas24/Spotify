@@ -1,0 +1,22 @@
+-- Strategy Plan (Sarah) 
+1. Churn & Retention:  Are we more concerned with new user acquisition or the retention of existing free users who haven't converted yet? 
+2. What is the plan to convert the free users to subscriptions or hit a certain usage limit, specific feature engagement, or seasonal promotions? 
+3. Threshold: If the data shows a decline in premium conversion rates over the next quarter, what strategic levers should we  pull further? 
+4. Which market or geographical regions are we planning to cover?
+5. Beyond simple active users, what specific KPIs indicate 'healthy' long-term growth to you? (e.g., Year-over-Year growth, monthly growth, Churn Rates, etc...
+6. What is currently on high priority: Increasing the number of users by campaign or increasing the revenue by converting more users to premium customers.
+
+
+
+Mark, Director of Revenue:
+1. Segment Granularity: "When looking at the revenue evolution since 2017, do you want to see 'Gross Revenue' or 'Net Revenue' after accounting for App Store fees and local taxes?"
+2. ARPU Drivers: "For Premium ARPU analysis, should we segment by plan type (Individual, Family, Student) to see how our 'Plan Mix' is impacting overall profitability?"
+3. The 'Free-to-Paid' Bridge:   do we want to track the 'Ad-Revenue-per-Free-User' vs. their eventual 'LTV' (Lifetime Value) once they convert?"
+4. Currency Impact: "Since 2017, exchange rates have fluctuated significantly. Do you want to see growth in 'Constant Currency' to isolate operational performance from market volatility?" 
+ 
+
+Olivia, VP of Operations:
+1. Cost Attribution: "For 'Cost of Revenue,' do you want to see a breakdown specifically for royalty payments versus infrastructure/streaming costs?"
+2. Efficiency Benchmarks: "When looking for 'cost reduction,' are we comparing our spend as a percentage of total revenue, or are we looking for 'Cost per Active User' trends?"
+3. R&D ROI: "Regarding R&D, are you looking to see how spend correlates with new user features or long-term infrastructure stability?"
+4. Fixed vs. Variable: "Should we distinguish between 'Fixed Operational Costs' and 'Variable Costs' that scale directly with user growth?"
